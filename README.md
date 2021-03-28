@@ -4,5 +4,5 @@
 
 #### A big fan of the world of hacking :shipit:
 #### Still trying to get my hands dirty in the business by;
-- Using Kali Linux 
+- Getting comfortable with Linux 
 - Learning back end develepmont
